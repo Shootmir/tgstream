@@ -25,7 +25,7 @@ HELP_TEXT = """
 
 ABOUT_TEXT = """
 <b>⚜ Mʏ ɴᴀᴍᴇ : FileStreamX</b>\n
-<b>🔹Owner : <a href='https://t.me/sdevcloud'>Aᴠɪsʜᴋᴀʀ Pᴀᴛɪʟ</a></b>\n
+<b>🔹Owner : <a href='https://t.me/sdevcloud'>Shooterx Cloud</a></b>\n
 <b>🔸Lᴀꜱᴛ ᴜᴘᴅᴀᴛᴇᴅ : <a href='https://t.me/sdevcloud'>[ 𝟶𝟿 - ᴊᴜɴᴇ - 𝟸𝟶𝟸𝟸 ] 𝟶𝟽:𝟶𝟶 ᴘᴍ</a></b>"""
 
 START_BUTTONS = InlineKeyboardMarkup(
